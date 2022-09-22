@@ -1,0 +1,49 @@
+# jemdoc: menu{MENU}{index.html}, nofooter
+
+~~~
+{}{img_left}{Figs/sichuan_restaurant.JPG}{Sha Luo}{400px}{268px}{}  
+*Dr. Sha Luo* \n
+[sha.luo@outlook.com \[e-mail\]] [https://www.linkedin.com/in/shaluols/ \[linkedin\]] [https://scholar.google.com/citations?user=akJ_7yoAAAAJ \[scholar\]] [https://github.com/Shaluols \[github\]]   \n
+~~~ 
+
+
+
+
+
+
+Photographed by M. Zhang, at Sichuan restaurant, Amsterdam (April 2024)
+
+
+== About Me
+I am currently a researcher in the field of AI and Robotics. I received my Ph.D. in March 2024 under the supervision of 
+Prof.Lambert Schomaker and Dr.Hamidreza Kasaei from the University of Groningen, The Netherlands. After a brief period in industry, 
+I rekindled my passion for research. My research interests broadly lie in machine learning and autonomous robotics, 
+especially in the combination of data-driven learning methods and planning in robotics motion planning applications.
+
+== An example of RL in animal's behavior: How did my kitten learn to skillfully grasp the food
+
+~~~
+{}{raw}
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htzGPkeJ-_U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
+~~~
+
+== Experience
+- *2022.12 - 2024.04* Data Scientist at Knab, Amsterdam, The Netherlands
+- *2018.10 - 2024.03* Ph.D. in Artificial Intelligence, University of Groningen, Groningen, The Netherlands
+- *2018.01 - 2018.09* Software Engineer at National University of Defense and Technology, Changsha, China
+- *2015.09 - 2017.12* M.S. in Control Science & Engineering, National University of Defense and Technology, Changsha, China
+- *2011.06 - 2015.06* B.S. in Automation, China University of Mining and Technology, Xuzhou, China
+
+== News
+
+- *2021.07.26 - 2021.07.30* Attended the 4th International School on Deep Learning [https://irdta.eu/deeplearn2021s/ DeepLearn 2021 Summer] held in Las Palmas de Gran Canaria, Spain.
+- *2019.07.01 - 2019.07.12* Attended Reinforcement Learning Summer SCOOL [https://rlss.inria.fr/ RLSS] held in Lille, France.
+- *2019.03.27 - 2019.03.29* Attended DISC Wintercourse 2019 on Reinforcement Learning held in Delft, the Netherlands.
+
+== Visitors
+~~~
+{}{raw}
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=weAawplBogRZm4707J2DPkv1Pn3WYzslKBDineUl-bw'></script>
+~~~

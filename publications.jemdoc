@@ -1,0 +1,28 @@
+# jemdoc: menu{MENU}{publications.html}
+= Dr. Sha Luo - Publications \n
+[https://scholar.google.com/citations?hl=en&user=akJ_7yoAAAAJ&view_op=list_works&sortby=pubdate \[Google Scholar\]]
+
+== Preprints
+
+
+== Journals
+. H. Kasaei, M. Kasaei, G. Tziafas, *S. Luo* and R. Sasso, "/Simultaneous multi-view object recognition and grasping in open-ended domains/," /Journal of Intelligent & Robotic Systems/, /110(2), pp.1-19/,  2024, [https://link.springer.com/article/10.1007/s10846-024-02092-5 \[PDF\]].
+. *S. Luo* and L. Schomaker, "/Reinforcement learning in robotic motion planning by 
+  combined experience-based planning and self-imitation learning/," /Robotics and Autonomous Systems/, /170, p.104545/,  2023, [https://www.sciencedirect.com/science/article/pii/S0921889023001847 \[PDF\]].
+. Y. Guo, J. Cheng, *S. Luo*, D. Gong and Y. Xue, "/Robust dynamic multi-objective vehicle routing optimization method/," /IEEE/ACM transactions on computational biology and bioinformatics/, 2017, [https://ieeexplore-ieee-org.proxy-ub.rug.nl/abstract/document/7883861/ \[PDF\]].
+
+
+== Conferences
+. *S. Luo* and L. Schomaker, "/Self-Imitation Learning by Planning/," in /IEEE International Conference on Robotics and Automation (ICRA)/,  2021, [https://ieeexplore-ieee-org.proxy-ub.rug.nl/abstract/document/9561411 \[PDF\]].
+. *S. Luo*, H. Kasaei and L. Schomaker, "/Multiple Subgoals-guided Hierarchical Learning in Robot Navigation/," in /IEEE International Conference on Robotics and Biomimetics (ROBIO)/, 2021, *Best Conference Paper Award Finalist* [https://ieeexplore.ieee.org/abstract/document/10011912 \[PDF\]].
+. *S. Luo* H. Kasaei and L. Schomaker, "/Accelerating Reinforcement Learning for Reaching Using Continuous Curriculum Learning/," in /IEEE International Conference on Neural Networks (IJCNN)/, 2021, [https://ieeexplore-ieee-org.proxy-ub.rug.nl/abstract/document/9207427 \[PDF\]].
+. W. Yao, *S. Luo*, H. Lu and J. Xiao, "/Distributed circumnavigation control with dynamic spacing for a heterogeneous multi-robot system/," in /Robot World Cup/, 2018, [https://link-springer-com.proxy-ub.rug.nl/chapter/10.1007/978-3-030-27544-0_31 \[PDF\]].
+. *S. Luo*, W. Yao, Q. Yu, J. Xiao, H. Lu and Z. Zhou, "/Object detection based on GPU parallel computing for RoboCup Middle Size League/," in /IEEE International Conference on Robotics and Biomimetics (ROBIO)/, 2017, [https://doi.org/10.1109/ROBIO.2017.8324399 \[PDF\]].
+. *S. Luo*, H. Lu, J. Xiao, Q. Yu and Z. Zheng, "/Robot detection and localization based on deep learning/," in /Chinese Automation Congress (CAC)/, 2017, [https://ieeexplore-ieee-org.proxy-ub.rug.nl/abstract/document/8244056 \[PDF\]].
+
+
+== PhD Thesis
+. S. Luo, "/https://research.rug.nl/en/publications/efficient-deep-reinforcement-learning-in-robotic-motion-planning/," University of Groningen, 2024.
+
+
+
