@@ -1,0 +1,52 @@
+# jemdoc: menu{MENU}{publications.html}
+= Dr. Weijia Yao - Publications \n
+Discrete Technology and Production Automation (DTPA), University of Groningen \n
+[https://scholar.google.com/citations?user=MDDx3Q4AAAAJ&hl=en \[Google Scholar\]]
+[https://www.semanticscholar.org/author/Weijia-Yao/3383345 \[Semantic Scholar\]]
+[https://orcid.org/0000-0003-0361-6620 \[ORCID\]]
+
+== Preprints
+. *W. Yao*, B. Lin, Brian D. O. Anderson and M. Cao, "/The domain of attraction of the desired path in vector-field guided path following/," /Submitted/,  2021.
+. *W. Yao*, H. G. de Marina, Z. Sun and M. Cao, "/Guiding vector fields for multi-robot coordinated navigation/," /Under review/,  2021.
+# . B. Hu, *W. Yao*, M. Cao and H. Zhang, "/Ordering-Free Platooning Path Following Using Guiding Vector Field/," /To be submitted/, 2021.
+# . B. Lin, *W. Yao* and M. Cao, "/On Wilson's theorem about domains of attraction and tubular neighborhoods/," /To be submitted/,  2021.
+# . H. G. de Marina, J. J. Castellanos and *W. Yao*, "/Collective motions in affine formation control/," /To be submitted/,  2021.
+
+
+== Journals
+. *W. Yao*, B. Lin, Brian D. O. Anderson and M. Cao, "/Guiding Vector Fields for Following Occluded Paths/," /Under review/, /IEEE Transactions on Automatic Control (TAC)/, /Conditionally accepted/,  2021.
+. *W. Yao*, B. Lin, Brian D. O. Anderson and M. Cao, "/Topological Analysis of Vector-Field Guided Path Following on Manifolds/," /IEEE Transactions on Automatic Control (TAC)/, /Conditionally accepted/,  2021.
+. *W. Yao*, H. G. de Marina, B. Lin and M. Cao, "/Singularity-free guiding vector field for robot navigation/," /IEEE Transactions on Robotics (TRO)/, pp. 1206--1221, vol. 37, no. 4,  2021, [https://doi.org/10.1109/TRO.2020.3043690 \[PDF\]][https://www.youtube.com/watch?v=mvO16koLmTQ \[Video\]][https://github.com/noether/paparazzi/tree/gvf_advanced/sw/airborne/modules/guidance/gvf_parametric \[Code\]].
+. *W. Yao* and M. Cao, "/Path following control in {3D} using a vector field/," /Automatica/, pp. 108957, vol. 117,  2020, [ttps://doi.org/10.1016/j.automatica.2020.108957 \[PDF\]]
+. L. Gong, *W. Yao*, J. Gao and M. Cao, "/Limit Cycles Analysis and Control of Evolutionary Game Dynamics with Environmental Feedback/," /Provisionally accepted/,  2020.
+. H. Lu, *W. Yao* and L. Chen, "/Distributed Multi-robot Circumnavigation with Dynamic Spacing and Time Delay/," /Journal of Intelligent & Robotic Systems (JINT)/, pp. 165--182, vol. 99, no. 1,  2020, [https://doi.org/10.1007/s10846-019-01111-0 \[PDF\]].
+. *W. Yao*, H. Lu, Z. Zeng, J. Xiao and Z. Zheng, "/Distributed static and dynamic circumnavigation control with arbitrary spacings for a heterogeneous multi-robot system/," /Journal of Intelligent & Robotic Systems (JINT)/, pp. 883--905, vol. 94, no. 3,  2019, [https://doi.org/10.1007/s10846-018-0906-5 \[PDF\]].
+
+== Conferences
+. *W. Yao*, B. Lin, Brian D. O. Anderson and M. Cao, "/Refining dichotomy convergence in vector-field guided path following control/," in /European Control Conference (ECC)/,  2021, [https://pure.rug.nl/ws/portalfiles/portal/172191292/refine_dicho_v9.pdf \[PDF\]][slides/ecc21.pdf \[Slides\]].
+. *W. Yao*, H. G. de Marina, Z. Sun and M. Cao, "/Distributed coordinated path following using guiding vector fields/," in /IEEE International Conference on Robotics and Automation (ICRA)/, 2021, *Best Conference Paper Award Finalist* [https://arxiv.org/abs/2103.12372 \[PDF\]][slides/icra21talk_v16.pdf \[Slides\]][https://www.youtube.com/watch?v=dmkECQaXFoI \[Talk\]].
+. H. G. de Marina, J. J. Castellanos and *W. Yao*, "/Leaderless collective motions in affine formation control/," in /2021 60th IEEE Conference on Decision and Control (CDC)/, 2021, [https://arxiv.org/abs/2104.03412 \[PDF\]].
+. *W. Yao*, H. G. de Marina and M. Cao, "/Vector field guided path following control: Singularity elimination and global convergence/," in /2020 59th IEEE Conference on Decision and Control (CDC)/, 2020, [https://doi.org/10.1109/CDC42340.2020.9303923 \[PDF\]][slides/cdc20.pdf \[Slides\]][https://www.youtube.com/watch?v=LfXCNdyBaTs&t=85s \[Video\]][https://github.com/weijia-yao/cdc20_singularity \[Code\]].
+. L. Gong, *W. Yao*, J. Gao and M. Cao, "/Limit Cycles in Replicator-Mutator Dynamics with Game-Environment Feedback/," in /21st IFAC World Congress/, 2020, [https://doi.org/10.1016/j.ifacol.2020.12.955 \[PDF\]]
+. *W. Yao*, B. Lin and M. Cao, "/Integrated Path Following and Collision Avoidance Using a Composite Vector Field/," in /2019 IEEE 58th Conference on Decision and Control (CDC)/,  2019, [https://doi.org/10.1109/CDC40024.2019.9029203 \[PDF\]][slides/cdc19.pdf \[Slides\]][https://www.youtube.com/watch?v=ddoZCiAnH-Q \[Video\]].
+. *W. Yao*, Y. A. Kapitanyuk and M. Cao, "/Robotic Path Following in 3D Using a Guiding Vector Field/," in /2018 57th IEEE Conference on Decision and Control (CDC)/, 2018, [ \[PDF\]].
+. Z. Zhou, *W. Yao*, J. Ma, H. Lu, J. Xiao and Z. Zheng, "/Simatch: A simulation system for highly dynamic confrontations between multi-robot systems/," in /2018 Chinese Automation Congress (CAC)/, 2018, [https://doi.org/10.1109/CAC.2018.8623698 \[PDF\]].
+. J. Ma, *W. Yao*, W. Dai, H. Lu, J. Xiao and Z. Zheng, "/Cooperative encirclement control for a group of targets by decentralized robots with collision avoidance/," in /2018 37th Chinese Control Conference (CCC)/, 2018, [https://doi.org/10.23919/ChiCC.2018.8483768 \[PDF\]].
+. *W. Yao*, S. Luo, H. Lu and J. Xiao, "/Distributed circumnavigation control with dynamic spacing for a heterogeneous multi-robot system/," in /Robot World Cup/,  2018, [https://doi.org/10.1007/978-3-030-27544-0_31 \[PDF\]].
+. *W. Yao*, Z. Zeng, X. Wang, H. Lu and Z. Zheng, "/Distributed encirclement control with arbitrary spacing for multiple anonymous mobile robots/," in /2017 36th Chinese Control Conference (CCC)/, 2017, [https://doi.org/10.23919/ChiCC.2017.8028755 \[PDF\]].
+. S. Luo, *W. Yao*, Q. Yu, J. Xiao, H. Lu and Z. Zhou, "/Object detection based on GPU parallel computing for RoboCup Middle Size League/," in /2017 IEEE International Conference on Robotics and Biomimetics (ROBIO)/, 2017, [https://doi.org/10.1109/ROBIO.2017.8324399 \[PDF\]].
+. *W. Yao*, W. Dai, J. Xiao, H. Lu and Z. Zheng, "/A simulation system based on ros and gazebo for robocup middle size league/," in /2015 IEEE international conference on robotics and biomimetics (ROBIO)/, 2015, [https://doi.org/10.1109/ROBIO.2015.7414623 \[PDF\]].
+
+== Book Chapters
+. J. Xiao, D. Xiong, *W. Yao*, Q. Yu, H. Lu and Z. Zheng, "/Building software system and simulation environment for robocup msl soccer robots based on ros and gazebo/," in /Robot operating system (ROS)/, 2017, [https://doi.org/10.1007/978-3-319-54927-9_18 \[PDF\]].
+
+== PhD Thesis
+. W. Yao, "/Guiding vector fields for robot motion control/," University of Groningen, 2021, [https://doi.org/10.33612/diss.181475662 \[ONLINE\]] or [Files/yao_thesis.pdf \[PDF\]]
+
+== Conference Abstracts
+. *W. Yao* and M. Cao, "/Mobile Robot Path Following Control: Singularity Elimination/," in /39th Benelux Meeting on Systems and Control/,  2020.
+. *W. Yao*, Y. Kapitaniuk and M. Cao, "/High-Dimensional Vector Field for Path Following/," in /38th Benelux Meeting on Systems and Control/,  2019.
+. *W. Yao*, I. Kapitaniuk and M. Cao, "/3D path-following using a guiding vector field/," in /37th Benelux meeting on Systems and Control/, 2018.
+
+
+

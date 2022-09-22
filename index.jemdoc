@@ -1,0 +1,50 @@
+# jemdoc: menu{MENU}{index.html}
+
+~~~
+{}{img_left}{Figs/weijia_yao_500x400_color.jpg}{Weijia Yao}{160px}{200px}{}  
+*Dr. Weijia Yao* \n
+[weijia.yao.new@outlook.com \[e-mail\]] [https://twitter.com/yao_weijia \[twitter\]] [https://www.linkedin.com/in/weijia-yao-93a4a114b/ \[linkedin\]] [https://scholar.google.com/citations?user=MDDx3Q4AAAAJ&hl=en \[scholar\]] [https://github.com/weijia-yao \[github\]]   \n
+Researcher, [https://www.rug.nl/staff/w.yao/research Discrete Technology & Production Automation (DTPA), University of Groningen] 
+\n
+Member of [http://www.math.rug.nl/gcsc/ Jan C. Willems Center for Systems and Control] \n
+~~~ 
+
+
+== Research Interests
+Nonlinear systems and control, robotics, multiagent systems, machine learning
+
+
+== Highlighted Research
+
+~~~
+{}{raw}
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dmkECQaXFoI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mvO16koLmTQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</center>
+~~~
+
+
+
+== News
+
+
+# ~~~
+# {}{raw}
+#
+# <a  height = "300" width="600" class="twitter-timeline" href="https://twitter.com/yao_weijia">Tweets by yao_weijia</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+#
+# ~~~
+
+- *Oct. 8, 2021* I got my PhD degree with the distinction (/cum laude/)! 
+- *Oct. 5, 2021* I visited Professor [https://people.utwente.nl/s.stramigioli Stefano Stramigioli]'s impressive lab! 
+- *Oct, 2021* My PhD thesis "Guiding vector fields for robot motion control" is available online now! See [https://doi.org/10.33612/diss.181475662 here].
+- *July, 2021* Our [https://arxiv.org/abs/2104.03412 paper] has been accepted to 2021 CDC. 
+- *June, 2021* Our ICRA paper "[https://arxiv.org/abs/2103.12372 Distributed coordinated path following using guiding vector fields]" is selected as a Best Conference Paper Award Finalist! 
+- *June, 2021* I will publicly defend my [https://www.rug.nl/about-ug/latest-news/events/promoties/?hfId=120943 PhD thesis] on Oct. 8, 2021 at 12.45 pm! 
+- *Jun. 29 - Jul. 2, 2021* Excited to present our work "Refining dichotomy convergence in vector-field guided path following control" at 2021 European Control Conference ([https://ecc21.euca-ecc.org/ ECC]) online. 
+- *Jun. 8 - Jun. 11, 2021* Attended DISC summer school “Planning, Learning and Control for Multi-Robot and Multi-Agent Systems”.
+- *Feb 28, 2021* Paper on [https://arxiv.org/abs/2103.12372 Distributed coordinated path following using guiding vector fields] accepted to [https://www.ieee-icra.org/ ICRA21]
+
